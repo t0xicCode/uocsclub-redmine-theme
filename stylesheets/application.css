@@ -4,7 +4,6 @@
  *Based on:	Chris McKee Customised Theme (RED)
  */
 @import url(../../../stylesheets/application.css);
-
 body, #wrapper {
     background: #E1E1E1;
     font-family: helvetica, arial, sans-serif;
@@ -259,10 +258,11 @@ table.progress td.closed {
 }
 
 .wiki h2 {
-    color: #484848;
     font-size: 130%;
     border: none;
     font-weight: 600;
+    color: #FFFFFF;
+    padding-left: 1.5em;
 }
 
 .wiki h3 {
@@ -585,10 +585,12 @@ li a.icon-time {
 }
 
 .icon-fav {
+    /*noinspection CssUnknownTarget*/
     background: url(/redmine/images/fav.png) no-repeat left center !important;
 }
 
 .icon-admin {
+    /*noinspection CssUnknownTarget*/
     background: url(/redmine/images/changeset.png) no-repeat left center !important;
 }
 
