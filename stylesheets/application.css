@@ -245,21 +245,6 @@ table.progress td.closed {
     font-weight: 700;
 }
 
-.wiki h2 {
-    font-size: 130%;
-    border: none;
-    font-weight: 600;
-    background-color: #fff;
-}
-
-.wiki h3 {
-    font-size: 120%;
-}
-
-.wiki h4 {
-    font-size: 110%;
-}
-
 .wiki h1 {
     font-family: helvetica, "microsoft sans serif", arial, sans-serif;
     background-color: #78000E;
@@ -275,6 +260,17 @@ table.progress td.closed {
 
 .wiki h2 {
     color: #484848;
+    font-size: 130%;
+    border: none;
+    font-weight: 600;
+}
+
+.wiki h3 {
+    font-size: 120%;
+}
+
+.wiki h4 {
+    font-size: 110%;
 }
 
 .wiki a {
@@ -390,6 +386,8 @@ p.breadcrumb {
 }
 
 .contextual {
+    position: relative;
+    top: 15px;
     float: right;
     font-size: 1em;
     display: block;
