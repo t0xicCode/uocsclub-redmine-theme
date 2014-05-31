@@ -406,7 +406,7 @@ p.breadcrumb {
 }
 
 input[type=submit], input[type=submit]:visited, .cbutton, .cbutton:visited {
-    background: #222 url(../alert-overlay.png) repeat-x;
+    background: #222;
     display: inline-block;
     color: #fff;
     text-decoration: none;
