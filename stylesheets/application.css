@@ -72,7 +72,7 @@ textarea#issue_description { width: 93%;}
 #top-menu li a:hover { color: #fff; text-decoration: none; }
 /* END Top Menu */
 
-#main { background: transparent url("../sidebar.png") repeat-y scroll right center; margin: 0 24px 0px 24px; }
+#main { background: transparent url("../sidebar.png") repeat-y scroll right center; margin: 0 24px 0px 24px; border-radius: 3px; }
 
 /* Menu */
 #main-menu { margin: 0 1.5em; margin-bottom: -2px;}
