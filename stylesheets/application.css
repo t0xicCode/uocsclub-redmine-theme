@@ -23,7 +23,7 @@ h2, h3, h4 { border-bottom: 0px;}
 h1 { color: #fff; font-size: 3em; font-weight: normal; margin:0pt 0pt 0pt 0.25em; padding:0pt 0pt 10px; text-align:left; }
 h1 a{ color:#000 !important; text-shadow:none;}
 h2{ 
-	background-color: #CD321D; 
+	background-color: #78000E; 
 	margin: 2px 0px 10px; 
 	padding: 10px .7em; 
 	font-size: 21px;
@@ -65,7 +65,7 @@ textarea#issue_description { width: 93%;}
 /* END Header */
 
 /* Top Menu */
-#top-menu { background-color: #CD321D; font-size: .9em; position: relative; margin-left: -.3em; padding: 0; height: 21px }
+#top-menu { background-color: #78000E; font-size: .9em; position: relative; margin-left: -.3em; padding: 0; height: 21px }
 #top-menu ul { padding: 0 21px; }
 #top-menu li, #top-menu #loggedas { color: #ddd; line-height: 21px; margin-right: 0px;}
 #top-menu li a { color: #E1E1E1; font-weight: normal; padding:4px 5px; }
@@ -137,7 +137,7 @@ table.progress td.closed { background-color:#C6E60D; }
 .wiki h2{ font-size:130%; border:none; font-weight:600; }
 .wiki h3{ font-size:120%; }
 .wiki h4{ font-size:110%; }
-.wiki h1 { font-family: helvetica, "microsoft sans serif", arial, sans-serif;	background-color: #CD321D; 
+.wiki h1 { font-family: helvetica, "microsoft sans serif", arial, sans-serif;	background-color: #78000E; 
 	margin: 2px 0px 10px; 
 	padding: 10px .7em; 
 	font-size: 21px;
